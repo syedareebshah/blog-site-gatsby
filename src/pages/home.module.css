@@ -33,3 +33,24 @@
 .blog >button:hover{
     background-color: rgb(242, 217, 169);
 }
+
+/* this is for singlePage */
+.mainPage{
+    padding: 10px;
+    text-align: center;
+    /* display: flex;
+    flex-direction: row; */
+}
+
+.ScndMain{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.rigt{
+    width: 50%;
+}
+.left{
+    width: 100%;
+}
